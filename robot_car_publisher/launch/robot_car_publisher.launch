@@ -1,7 +1,0 @@
-<launch>
-    <node
-        pkg="robot_car_publisher"
-        type="robot_car_publisher.py"
-        name="robot_car_opencontrol"
-        output="screen"/>
-</launch>
