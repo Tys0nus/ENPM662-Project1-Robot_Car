@@ -1,7 +1,0 @@
-<launch>
-    <node
-        pkg="robot_car_subscriber"
-        type="robot_car_subscriber.py"
-        name="robot_car_subscriber_topic"
-        output="screen"/>
-</launch>
