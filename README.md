@@ -34,10 +34,9 @@ The project depends on the following software:
 - **Gazebo**
 - **Solidworks**
 
-[Video 1](https://drive.google.com/file/d/1exGQE69sUVnIPqdVEfN2HyqEFimZgEAD/view?usp=share_link)
-This Video demonstrates the process to control the Robot Car with `w a s d` keys 
-[Video 2](https://drive.google.com/file/d/1GPtPinrDI5i7DjVGwFRS_OJyxce2KyqR/view?usp=share_link)
-This Video demonstrates the Robot Car traversing in a circular trajectory
+[Video 1](https://drive.google.com/file/d/1exGQE69sUVnIPqdVEfN2HyqEFimZgEAD/view?usp=share_link) : This Video demonstrates the process to control the Robot Car with `w a s d` keys 
+
+[Video 2](https://drive.google.com/file/d/1GPtPinrDI5i7DjVGwFRS_OJyxce2KyqR/view?usp=share_link) : This Video demonstrates the Robot Car traversing in a circular trajectory
 
 # Conclusion
 
