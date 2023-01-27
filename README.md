@@ -34,6 +34,8 @@ The project depends on the following software:
 - **Gazebo**
 - **Solidworks**
 
+<video src="https://drive.google.com/file/d/1exGQE69sUVnIPqdVEfN2HyqEFimZgEAD/view?usp=share_link"></video>
+
 # Conclusion
 
 This project demonstrates how to design and simulate a robot car using CAD modeling in Solidworks and simulation using ROS and Gazebo. It provides a basic understanding of how to create a robot model, how to simulate it in a virtual environment and how to control it using ROS. A Lidar Sensor is integrated with the car for object detection. The project can be further developed by adding sensors and control systems to the robot to make it more advanced.
