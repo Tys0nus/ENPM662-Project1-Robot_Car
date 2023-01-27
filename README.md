@@ -6,11 +6,11 @@ This is an introductory robot modeling project that demonstrates how to design a
 
 # CAD Modeling
 
-The robot car was designed using Solidworks, a 3D CAD software. The design consists of a chassis, wheels, and a controller. The chassis was designed to hold the wheels and the controller, while the wheels were designed to provide mobility to the robot. The controller is used to control the movement of the robot. The Solidworks files for the design can be found in the `solidworks` directory.
+The robot car was designed using Solidworks, a 3D CAD software. The design consists of a chassis, wheels, and a controller. The chassis was designed to hold the wheels and the controller, while the wheels were designed to provide mobility to the robot. The controller is used to control the movement of the robot. The Solidworks files for the design can be found in the `CAD Files Robot_Car` directory.
 
 # Simulation
 
-The robot car was simulated using ROS and Gazebo, an open-source robotics simulation platform. ROS was used to control the movement of the robot, while Gazebo was used to simulate the environment. The simulation was used to test the design of the robot and to ensure that it would function as intended. The ROS packages required for simulation and control can be found in the `ros` directory.
+The robot car was simulated using ROS and Gazebo, an open-source robotics simulation platform. ROS was used to control the movement of the robot, while Gazebo was used to simulate the environment. The simulation was used to test the design of the robot and to ensure that it would function as intended. The ROS packages required for simulation and control can be found in the `root` directory.
 
 # How to Run the Project
 
