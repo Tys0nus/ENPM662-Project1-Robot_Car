@@ -1,4 +1,4 @@
-# ENPM662 Project1 Robot Car 🚗
+# ENPM662 Project1 Robot Car
 <!-- CAD Modeling &amp; Simulation using ROS-Gazebo Environment -->
 # Introduction
 
